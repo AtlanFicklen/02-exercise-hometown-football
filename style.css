@@ -1,0 +1,98 @@
+body {
+    background-image: url("./assets/blue-brick-wallpaper.jpg");
+   }
+   
+.header{
+    margin-bottom: 2rem;
+}
+
+.logo img{
+    width: 50px;
+    padding-left: 3rem;
+    padding-bottom: 32px;
+}
+
+#top_menu a{
+    padding: 2rem;
+    color: white;
+    text-decoration: none;
+    float: right;
+}
+
+body {
+    background-image: url("./assets/blue-brick-wallpaper.jpg");
+   }
+   
+.links a{
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+    float: left;
+}
+
+#team_coach{
+    text-align: center;
+    padding-top: 3rem;
+}
+
+#team_coach img{
+    width: 60%;
+}
+
+.Schedule{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+    margin: 3rem auto;
+    font-weight: bold;
+}
+.Schedule td{
+    padding: 0.5rem;
+}
+.away{
+    color: #ffce19;
+}
+
+.home{
+    color: #13b5eb;
+}
+
+.away_location_win{
+    color: white;
+    text-align: center;
+    border: 5px solid blue;
+}
+
+.away_location_lose{
+    color: white;
+    text-align: center;
+    border: 5px solid red;
+}
+
+.home_location_win{
+    color: white;
+    text-align: center;
+    border: 5px solid blue;
+}
+
+.home_location_lose{
+    color: white;
+    text-align: center;
+    border: 5px solid red;
+}
+
+#the_team_table{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+#the_team_table img{
+    height: 150px;
+}
+.championship_logo{
+    text-align: center;
+}
+
+.championship_logo img{
+    width: 100px;
+}
